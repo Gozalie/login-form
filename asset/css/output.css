@@ -592,12 +592,12 @@ video {
   top: 0.25rem;
 }
 
-.z-50 {
-  z-index: 50;
-}
-
 .z-20 {
   z-index: 20;
+}
+
+.z-50 {
+  z-index: 50;
 }
 
 .block {
@@ -814,6 +814,7 @@ video {
 
 html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  font-family: "Noto Sans", sans-serif;
 }
 
 canvas {
